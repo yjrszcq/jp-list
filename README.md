@@ -7,16 +7,16 @@
 > 以下两种仅为不同的表示方式，作用相同，二选一即可
 
 ```yaml
-jp-site: {type: http, format: yaml, behavior: classical, url: "https://raw.githubusercontent.com/yjrszcq/jp-site-list/refs/heads/main/jp-site.yaml", path: ./ruleset/jp-site.yaml, interval: 86400}
+jp: {type: http, format: yaml, behavior: classical, url: "https://raw.githubusercontent.com/yjrszcq/jp-list/refs/heads/main/jp.yaml", path: ./ruleset/jp.yaml, interval: 86400}
 ```
 
 ```yaml
-jp-site:
+jp:
   type: http
   format: yaml
   behavior: classical
-  url: "https://raw.githubusercontent.com/yjrszcq/jp-site-list/refs/heads/main/jp-site.yaml"
-  path: ./ruleset/jp-site.yaml
+  url: "https://raw.githubusercontent.com/yjrszcq/jp-list/refs/heads/main/jp.yaml"
+  path: ./ruleset/jp.yaml
   interval: 86400
 ```
 
@@ -27,7 +27,7 @@ jp-site:
 ```yaml
 rules:
   # JP Site
-  - RULE-SET,jp-site,JP
+  - RULE-SET,jp,JP
 ```
 
 ## LIST
@@ -35,7 +35,7 @@ rules:
 同时提供 LIST 格式规则：
 
 ```text
-https://raw.githubusercontent.com/yjrszcq/jp-site-list/refs/heads/main/jp-site.list
+https://raw.githubusercontent.com/yjrszcq/jp-list/refs/heads/main/jp.list
 ```
 
 ## 说明
