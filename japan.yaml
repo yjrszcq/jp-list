@@ -1,0 +1,122 @@
+# Updated: 2026-10-25
+
+payload:
+  # Yahoo! JAPAN
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,yimg.jp
+  - DOMAIN-SUFFIX,yjtag.jp
+
+  # Rakuten
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,rakuten.com
+  - DOMAIN-SUFFIX,r10s.jp
+  - DOMAIN-SUFFIX,rakuten-static.com
+
+  # Amazon Japan
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,amazon.jp
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+
+  # Mercari
+  - DOMAIN-SUFFIX,mercari.com
+  - DOMAIN-SUFFIX,mercari.jp
+
+  # BitCash
+  - DOMAIN-SUFFIX,bitcash.jp
+  - DOMAIN-SUFFIX,bitcash.co.jp
+
+  # DMM / FANZA
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dmmgames.com
+  - DOMAIN-SUFFIX,fanza.com
+
+  # Pixiv
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,pixiv.co.jp
+
+  # NicoNico
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,nicoseiga.jp
+  - DOMAIN-SUFFIX,dwango.jp
+
+  # ABEMA
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,ameba.jp
+
+  # TVer
+  - DOMAIN-SUFFIX,tver.jp
+
+  # NHK
+  - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-SUFFIX,nhk.jp
+
+  # 5ch
+  - DOMAIN-SUFFIX,5ch.net
+  - DOMAIN-SUFFIX,2ch.sc
+
+  # Kakaku / Tabelog
+  - DOMAIN-SUFFIX,kakaku.com
+  - DOMAIN-SUFFIX,tabelog.com
+
+  # Cookpad
+  - DOMAIN-SUFFIX,cookpad.com
+
+  # Hatena
+  - DOMAIN-SUFFIX,hatena.ne.jp
+  - DOMAIN-SUFFIX,hatenablog.com
+  - DOMAIN-SUFFIX,hatena.com
+
+  # Ameblo
+  - DOMAIN-SUFFIX,ameblo.jp
+
+  # LINE
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,line-apps.com
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN-SUFFIX,manga.line.me
+
+  # BOOK☆WALKER
+  - DOMAIN-SUFFIX,bookwalker.jp
+
+  # DLsite
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,dlsite.jp
+
+  # BOOTH
+  - DOMAIN-SUFFIX,booth.pm
+
+  # Melonbooks
+  - DOMAIN-SUFFIX,melonbooks.co.jp
+
+  # Toranoana
+  - DOMAIN-SUFFIX,toranoana.jp
+
+  # Suruga-ya
+  - DOMAIN-SUFFIX,suruga-ya.jp
+
+  # Animate
+  - DOMAIN-SUFFIX,animate.co.jp
+  - DOMAIN-SUFFIX,animate-onlineshop.jp
+
+  # Bic Camera
+  - DOMAIN-SUFFIX,biccamera.com
+
+  # Yodobashi
+  - DOMAIN-SUFFIX,yodobashi.com
+
+  # Joshin
+  - DOMAIN-SUFFIX,joshinweb.jp
+
+  # Docomo
+  - DOMAIN-SUFFIX,docomo.ne.jp
+
+  # au
+  - DOMAIN-SUFFIX,au.com
+
+  # SoftBank
+  - DOMAIN-SUFFIX,softbank.jp
