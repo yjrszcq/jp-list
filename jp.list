@@ -1,4 +1,4 @@
-# Updated: 2026-10-25
+# Updated: 2026-11-18
 
 # Yahoo! JAPAN
 DOMAIN-SUFFIX,yahoo.co.jp
@@ -24,6 +24,76 @@ DOMAIN-SUFFIX,mercari.jp
 # BitCash
 DOMAIN-SUFFIX,bitcash.jp
 DOMAIN-SUFFIX,bitcash.co.jp
+
+
+# =========================
+# viviON Group
+# =========================
+
+# viviON / EISYS
+DOMAIN-SUFFIX,vivion.jp
+DOMAIN-SUFFIX,eisys.co.jp
+
+# viviON ID / Unified Accounts
+DOMAIN-SUFFIX,vivionid.com
+
+# DLsite
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.jp
+
+# DLsite NijiGAME
+DOMAIN-SUFFIX,nijiyome.com
+DOMAIN-SUFFIX,nijiyome.jp
+
+# DLsite Studio / Publishing
+DOMAIN-SUFFIX,dlsitestudio.com
+DOMAIN-SUFFIX,dlsiteshobo.com
+
+# Ci-en
+DOMAIN-SUFFIX,ci-en.net
+
+# chobit
+DOMAIN-SUFFIX,chobit.cc
+
+# triokini
+DOMAIN-SUFFIX,triokini.com
+
+# comipo
+DOMAIN-SUFFIX,comipo.app
+
+# comipo comics
+DOMAIN-SUFFIX,comipo-comics.com
+
+# viviON BLUE
+DOMAIN-SUFFIX,vivionblue.com
+
+# viviON SQUARE
+DOMAIN-SUFFIX,vivionsquare.com
+
+# GENSEKI
+DOMAIN-SUFFIX,genseki.me
+DOMAIN-SUFFIX,genseki.co.jp
+
+# Minna de Honyaku
+DOMAIN-SUFFIX,min-hon.net
+
+# GIRLSMANIAX
+DOMAIN-SUFFIX,girlsmaniax.com
+
+# VHS City / VTuber Projects
+DOMAIN-SUFFIX,vhs-city.com
+DOMAIN-SUFFIX,vebop.net
+
+# Clock over ORQUESTA
+DOMAIN-SUFFIX,clockoverorquesta.com
+
+# Zanka
+DOMAIN-SUFFIX,zanka-myst.com
+
+
+# =========================
+# Other Japanese Services
+# =========================
 
 # DMM / FANZA
 DOMAIN-SUFFIX,dmm.com
@@ -79,12 +149,8 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,manga.line.me
 
-# BOOK☆WALKER
+# BOOK WALKER
 DOMAIN-SUFFIX,bookwalker.jp
-
-# DLsite
-DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,dlsite.jp
 
 # BOOTH
 DOMAIN-SUFFIX,booth.pm
